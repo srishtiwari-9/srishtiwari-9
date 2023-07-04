@@ -3,7 +3,6 @@
 
 
 - student
-- present Google DSC Lead of my college
 - I code in Java and Python 
 - currently learning DSA and Android Developement
 
