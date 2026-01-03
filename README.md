@@ -3,8 +3,7 @@
 
 
 - Fresher | Focused on UI/UX and Software Engineering
-- Currently working as a Freelancer
-- Building projects in React.js, Spring Boot, Java, Python, and Figma
+- Currently working as a Product Design Intern @24Seven.Design
 - Solved 200+ coding questions on LeetCode and GfG to strengthen problem-solving skills
 - Cinephile & avid reader with a strong interest in novels and storytelling
 - Always learning, experimenting, and turning ideas into working prototypes
